@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pypdf            # For PDF reading
+neo4j            # Neo4j Driver
+chromadb         # Vector Store
+groq             # LLM Client
+python-dotenv    # For .env loading
+pydantic-settings
